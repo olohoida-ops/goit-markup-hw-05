@@ -11,8 +11,8 @@
   margin-right: 120px;
 }
 
-.footer-social {
-  margin-right: 80px;
+.footer-subscribe {
+  margin-left: auto;
 }
 
 .footer-logo {
@@ -62,7 +62,6 @@
 }
 
 .footer-subscribe-title {
-  display: block;
   margin-bottom: 16px;
   font-weight: 500;
   color: #fff;
@@ -81,7 +80,7 @@
   border-radius: 4px;
   outline: none;
   font-size: 12px;
-  line-height: 2;
+  line-height: 1.17;
   letter-spacing: 0.04em;
   color: #fff;
   background-color: transparent;
@@ -89,7 +88,7 @@
 }
 
 .subscribe-input::placeholder {
-  color: rgba(255, 255, 255, 0.3);
+  color: #fff;
 }
 
 .subscribe-input:focus {
